@@ -37,7 +37,7 @@
 
 <body>
   <div id="canvas-container">
-    <h1>Essa é uma página de teste</h1>
+    <h1>esse e o site do kauan(onlyfans)</h1>
     <img src="AluraStart.jpg" alt="Imagem da Alura Start">
   </div>
   <script src="sketch.js"></script>
